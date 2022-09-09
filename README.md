@@ -9,9 +9,8 @@ Thiago Viana Bezerra - 496254
 
 ## :people_holding_hands: Papéis ou tipos de usuário da aplicação
 
-Informe aqui os tipos de usuário que irão interagir com a aplicação. Ex: administrador, locador, locatario, usuário não logado.
-Usuário logado
-Usuário não logado
+- Usuário logado
+- Usuário não logado
 
 ## :spiral_calendar: Entidades ou tabelas do sistema
 
