@@ -1,11 +1,11 @@
 # :checkered_flag: Sales Management
 
-Breve descrição do que o seu projeto faz.
+O Sales Management é um sistema feito exclusivamente para os gerentes de Óticas terem o controle sobre as suas vendas, seus clientes, seus médicos parceiros visto que esse controle ainda é feito manualmente por muitos gerentes. Para otimizar seu trabalho, apresentamos um sistema que a princípio atende a essas funcionalidades mas futuramente novas opções serão adicionadas. 
 
 ## :technologist: Membros da equipe
 
-João Victor Carvalho de Oliveira - 499062
-Thiago Viana Bezerra - 496254
+- João Victor Carvalho de Oliveira - 499062
+- Thiago Viana Bezerra - 496254
 
 ## :people_holding_hands: Papéis ou tipos de usuário da aplicação
 
