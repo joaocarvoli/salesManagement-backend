@@ -19,8 +19,8 @@
 
 ### Application flow:
 
-![](salesManagement-app.svg)
+![](salesManagement-app-VERSION_01.svg)
 
 ### Database flow:
 
-![](salesManagement-database.svg)
+![](salesManagement-database-VERSION_01.svg)
